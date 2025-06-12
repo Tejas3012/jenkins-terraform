@@ -6,3 +6,4 @@ resource "aws_instance" "vm" {
     tags = {
         Name = "TF-SERVER"
     }
+}
